@@ -1,0 +1,22 @@
+{
+  "super": {
+    "name": "Superball",
+    "image": "https://cdn.jsdelivr.net/gh/peterlavey/pokemon-content/images/pokeballs/normal.svg",
+    "tiers": ["B"]
+  },
+  "normal": {
+    "name": "Pokeball",
+    "image": "https://cdn.jsdelivr.net/gh/peterlavey/pokemon-content/images/pokeballs/super.svg",
+    "tiers": ["D", "C"]
+  },
+  "ultra": {
+    "name": "Ultraball",
+    "image": "https://cdn.jsdelivr.net/gh/peterlavey/pokemon-content/images/pokeballs/ultra.svg",
+    "tiers": ["A"]
+  },
+  "master": {
+    "name": "Masterball",
+    "image": "https://cdn.jsdelivr.net/gh/peterlavey/pokemon-content/images/pokeballs/master.svg",
+    "tiers": ["S"]
+  }
+}
