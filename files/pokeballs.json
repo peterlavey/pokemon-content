@@ -1,12 +1,12 @@
 {
   "normal": {
     "name": "Pokeball",
-    "image": "https://cdn.jsdelivr.net/gh/peterlavey/pokemon-content/images/pokeballs/super.svg",
+    "image": "https://cdn.jsdelivr.net/gh/peterlavey/pokemon-content/images/pokeballs/normal.svg",
     "tiers": ["D", "C"]
   },
   "super": {
     "name": "Superball",
-    "image": "https://cdn.jsdelivr.net/gh/peterlavey/pokemon-content/images/pokeballs/normal.svg",
+    "image": "https://cdn.jsdelivr.net/gh/peterlavey/pokemon-content/images/pokeballs/super.svg",
     "tiers": ["B"]
   },
   "ultra": {
